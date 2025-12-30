@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👋 Hi, I'm Abdullahi!
 
-# Run and deploy your AI Studio app
+I am a passionate developer focused on building impactful web applications and software solutions. I enjoy creating user-centric experiences and exploring new technologies.
 
-This contains everything you need to run your app locally.
+## 🚀 About Me
+- 🔭 I’m currently working on enhancing my portfolio and developing full-stack applications.
+- 🌱 I’m currently learning advanced React patterns and cloud architecture.
+- 👯 I’m looking to collaborate on open-source projects and innovative web tools.
+- 💬 Ask me about web development, UI/UX design, or my recent projects.
 
-View your app in AI Studio: https://ai.studio/apps/drive/12g3g7hAgNUCKEe3d-Bduhy22qCjKkhM0
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, PHP, MySQL
+- **Tools:** Git, GitHub, VS Code
 
-## Run Locally
+## 📊 GitHub Stats
+![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullahi0720006477&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahi0720006477&layout=compact&theme=radical)
 
-**Prerequisites:**  Node.js
+## 📫 Connect with Me
+- **Portfolio:** [portfolio-website-ashen-pi.vercel.app](https://portfolio-website-ashen-pi.vercel.app)
+- **GitHub:** [@Abdullahi0720006477](https://github.com/Abdullahi0720006477)
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+*“Building the future, one line of code at a time.”*
