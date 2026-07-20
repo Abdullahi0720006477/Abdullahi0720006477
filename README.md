@@ -1,103 +1,54 @@
-<h1 align="center">Hi, I'm Abdullahidev 👋</h1>
+# Hi, I am Abdullahi 👋
 
-<p align="center">
-  <b>Senior Systems Architect | SaaS Product Engineer</b><br/>
-  Building scalable enterprise systems that solve real-world problems
-</p>
+**BBIT Student | Full-Stack Developer | AI Agent Builder**
 
-<p align="center">
-  <a href="https://personal-portfolio-v1-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdullahi-deeer-562aa530b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I build practical software for businesses and communities, including point-of-sale systems, management platforms, e-commerce applications, and AI-powered tools. I am currently completing a Bachelor of Business and Information Technology at Mount Kenya University.
 
----
+## Featured projects
 
-## 🚀 About Me
+### [Muratina Café POS](https://github.com/Abdullahi0720006477/Muratina-Cafe-POS)
 
-- 🏗️ I build **enterprise-grade SaaS systems** with clean architecture
-- 💼 Specialized in **Property Management, POS Systems & E-commerce platforms**
-- 🔭 Currently working on **Property Management SaaS** — a full-cycle real estate platform
-- 🌱 Currently learning **CI/CD pipelines, Docker & Cloud Infrastructure**
-- 💡 Passionate about **system design, scalability & clean code**
+A PHP and MySQL restaurant POS with role-based access, inventory, attendance, waiter commissions, receipts, loyalty points, reports, and responsive dashboards.
 
----
+### [MediCore Hospital Management System](https://github.com/Abdullahi0720006477/Hospital-Management-System)
 
-## 🛠️ Tech Stack
+A Symfony hospital platform with patient, doctor, appointment, ward, reporting, audit, and role-management features.
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### [Property Management SaaS](https://github.com/Abdullahi0720006477/Property-Management-System-SaaS)
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+An MVC property platform for tenant onboarding, leases, automated billing, expenses, maintenance, and financial reporting.
 
-### DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### [Hallo Fresh Grocery](https://github.com/Abdullahi0720006477/Hallo-Fresh-Grocery)
 
----
+A Kenyan grocery-commerce application built with Next.js, TypeScript, Firebase, Zustand, and M-Pesa-oriented checkout flows.
 
-## 🏆 Featured Projects
+### [Nova AI Partner](https://github.com/Abdullahi0720006477/ai-partner-groq)
 
-### 🏢 [Property Management System SaaS](https://github.com/Abdullahi0720006477/Property-Management-System-SaaS)
-> Enterprise-grade property management platform for real estate operations
-- ✅ Tenant & Lease lifecycle management
-- ✅ Automated invoicing & financial reporting
-- ✅ CI/CD pipeline with GitHub Actions
-- **Stack:** PHP, MySQL, MVC Architecture
+A Flask and Groq chat application with server-side secret handling, conversation memory, responsive design, and Render deployment configuration.
 
----
+### [Personal Portfolio](https://github.com/Abdullahi0720006477/personal-portfolio-v1)
 
-### 🍽️ [Restaurant POS System](https://github.com/Abdullahi0720006477/Restaurant-POS-System)
-> Full-featured point-of-sale system for restaurant operations
-- ✅ Order management & billing
-- ✅ Menu & inventory control
-- **Stack:** PHP, MySQL
+My responsive portfolio showcasing software systems, web applications, and AI projects.
 
----
+## Technical skills
 
-### 🛒 [Hallo Fresh Grocery](https://github.com/Abdullahi0720006477/Hallo-Fresh-Grocery)
-> Modern grocery delivery platform
-- ✅ Product catalog & cart system
-- ✅ Order tracking
-- **Stack:** TypeScript, React
+- **Backend:** PHP, Symfony, Python, Flask, REST APIs
+- **Frontend:** React, TypeScript, JavaScript, Next.js, HTML, CSS, Tailwind CSS
+- **Data:** MySQL, SQLite, Firebase, Supabase, Cloudflare KV
+- **AI:** OpenAI Agents SDK, Groq, Gemini, prompt design, tool-based agents
+- **Engineering:** Git, GitHub Actions, testing, CI/CD, Vercel, Render, Cloudflare
 
----
+## Currently improving
 
-### 🏥 [Hospital Management System](https://github.com/Abdullahi0720006477/Hospital-Management-System)
-> Complete hospital operations management platform
-- ✅ Patient records & appointments
-- ✅ Staff management
-- **Stack:** PHP, Twig
+- Automated testing and test coverage
+- Secure server-side AI integrations
+- Docker and cloud infrastructure
+- Clean architecture and scalable system design
 
----
+## Connect
 
-## 📊 GitHub Stats
+- [Portfolio](https://personal-portfolio-v1-three.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/abdullahi-deeer-562aa530b)
+- Email: [abdullahimukhtar717@gmail.com](mailto:abdullahimukhtar717@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahi0720006477&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahi0720006477&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahi0720006477&theme=dark&hide_border=true" width="60%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Good systems are built once and maintained forever — great systems grow with the business."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullahi0720006477&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+I am open to internships, graduate opportunities, and collaborative software projects.
